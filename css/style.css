@@ -1,0 +1,30 @@
+html,body{
+    background: #000000;
+    color: rgb(250,230,243) !important;
+}
+ul
+{
+   margin: 5px !important;
+   margin: 5px !important;
+}
+
+
+a:link, a:hover, a:visited, a:active
+{
+    color: rgb(250,230,243)!important;
+    font-size: 18px;
+    font-weight: 600;
+    text-indent: 40px;
+}
+
+.carousel-caption > h3
+{
+    position: relative;
+    top: -150px;
+}
+.carousel-caption > p
+{
+    position: relative;
+    top: -100px;
+}
+
